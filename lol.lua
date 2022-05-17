@@ -3490,7 +3490,7 @@ end)
 
 
 local swagmins = {
-  200547759, -- Mas2n
+  3366062233, -- Mas2n
   44694442, -- SWAGM0DE
   92157681, -- Ninaly4567
   1688589423, -- KR1STlNA
@@ -3599,7 +3599,7 @@ end
 muted = {}
 mutingnew = false 
 
-local ModCheck = loadstring(game:HttpGet('https://raw.githubusercontent.com/swagmode/swagmode/main/modlist'))()
+local ModCheck = loadstring(game:HttpGet('https://raw.githubusercontent.com/skiddeddrk/swagmod/main/skid.lua'))()
 Players.PlayerAdded:Connect(function(plr)
     local SWAGMIN = table.find(swagmins, plr.UserId)
     if SWAGMIN or ModCheck[plr.UserId] then
