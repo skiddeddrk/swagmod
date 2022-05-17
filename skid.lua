@@ -3,9 +3,11 @@ local ADMINS = {
    
 }
 local MODS = {
+    3366062233,
 
 }
 local STARS = {
+    3366062233,
 
 }
 local BOOSTERS = {
