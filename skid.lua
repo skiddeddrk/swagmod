@@ -8,6 +8,7 @@ local MODS = {
 }
 local STARS = {
     3366062233,
+    364204849,
 
 }
 local BOOSTERS = {
